@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jose Alfredo Mendoza Mota</h1>
-<h3 align="center">I'm a electronic engineer and Master Student</h3>
+<h3 align="center">I'm a electronic engineer and Master in applied computation</h3>
 
-- 🔭 I’m currently working on **Feature Selection**
+- 🔭 I am currently working on developing for core banking
+
+- 🔭 I have worked on evolutionary algorithms for feature selection
 
 - 🌱 I’m currently learning **frameworks and courses**
 
